@@ -1,5 +1,5 @@
-Install package
-- npm install
+# Install package
+> - npm install
 
-How to execute test
-- $npx playwright test -g "get started link" --headed 
+# How to execute test
+> - $npx playwright test -g "get started link" --headed 
